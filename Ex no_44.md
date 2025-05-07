@@ -53,7 +53,8 @@ printf("%c\n",queue[front]);
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/3c69a98a-cbb9-4608-b259-f8cb31a3a653)
+
+![Screenshot 2025-05-07 223559](https://github.com/user-attachments/assets/ee8b9992-d1b1-4c5b-9274-6a9696e45f14)
 
 
 ## Result:
